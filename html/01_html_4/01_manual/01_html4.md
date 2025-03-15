@@ -3,14 +3,14 @@
 # 01_html4 
 
 ### 📜 Table of Content
-* [HTML](#✏️-HTML)
+* [HTML](#HTML)
 * [chapter 2](#chapter-2)
 * [chapter 3](#chapter-3)
 * [test](test.md)
 * 
 ----
 
-#### ✏️ HTML
+#### HTML ✏️
 * **HTML**
    * HTML is HyperText Markup Language. 
    * html use a markup language uses tags to identify content.
