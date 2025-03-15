@@ -10,7 +10,7 @@
 * 
 ----
 
-#### HTML ✏️
+#### HTML
 * **HTML**
    * HTML is HyperText Markup Language. 
    * html use a markup language uses tags to identify content.
