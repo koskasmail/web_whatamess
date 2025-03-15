@@ -2,24 +2,26 @@
 
 # 01_html4 
 
-### Table of Content
-* [chapter 1](#chapter-1)
+### 📜 Table of Content
+* [HTML](#HTML)
 * [chapter 2](#chapter-2)
 * [chapter 3](#chapter-3)
 * [test](test.md)
 * 
 ----
 
-#### chapter 1
+#### HTML
+* **HTML**
+   * HTML is HyperText Markup Language. 
+   * html use a markup language uses tags to identify content.
 
-```
-chapter 1
-.
-.
-.
-```
+* **HTML Modern Web Design**
+   * HTML: Structure
+   * CSS: Presentation
+   * JavaScript: Behavior
 
 * [Top](#01_html4) | [Table-of-Content](#Table-of-Content)
+
 ----
 
 #### chapter 2
