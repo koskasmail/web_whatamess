@@ -3,7 +3,7 @@
 # 01_html4 
 
 ### 📜 Table of Content
-* [HTML](#HTML)
+* [HTML](#✏️-HTML)
 * [chapter 2](#chapter-2)
 * [chapter 3](#chapter-3)
 * [test](test.md)
